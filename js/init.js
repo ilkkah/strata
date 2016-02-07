@@ -20,7 +20,7 @@
 		reset: 'full',
 		containers: '100%',
 		breakpoints: {
-			global: { href: '/css/style.css', grid: { gutters: ['2.5em', 0] } },
+			global: { href: '/strata/css/style.css', grid: { gutters: ['2.5em', 0] } },
 			xlarge: { media: '(max-width: 1800px)', href: '/strata/css/style-xlarge.css' },
 			large: { media: '(max-width: 1280px)', href: '/strata/css/style-large.css', grid: { gutters: ['2em', 0] } },
 			medium: { media: '(max-width: 980px)', href: '/strata/css/style-medium.css'},
